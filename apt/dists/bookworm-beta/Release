@@ -1,0 +1,24 @@
+Architectures: arm64
+Codename: bookworm-beta
+Components: main
+Date: Mon, 19 Oct 2026 11:07:53 +0000
+Description: Remote Inspection, stable and pre-releases for Raspberry Pi OS bookworm
+Label: Remote Inspection
+Origin: Remote Inspection
+Suite: bookworm-beta
+MD5Sum:
+ c201bd22871f88bc00beb37954d5fa01             1404 main/binary-arm64/Packages
+ 895e9e0c355b6f92e6e872e62d8e107a              842 main/binary-arm64/Packages.gz
+ 6c7efddf9edda8aed8d290599931ff32              932 main/binary-arm64/Packages.xz
+SHA1:
+ ca08dca76b263dd95a1ad1c806f3baf1e7e5595c             1404 main/binary-arm64/Packages
+ 28fa404b1549eb267bf6915bcb9c59f6f3d14f1f              842 main/binary-arm64/Packages.gz
+ 32ca6aa4ba757b44abd18baebe16497af56df322              932 main/binary-arm64/Packages.xz
+SHA256:
+ 83379b8700aec250eae68a5d3c935ddd2cd67bf380607134a4d8eb5a1ca5559c             1404 main/binary-arm64/Packages
+ cf97301676eaa2e3a51623e50df3938714cd7611b2fd7883433e4dacb835236c              842 main/binary-arm64/Packages.gz
+ 7c878f4dee7e64da3c4e0a2b13aa40942895c791e9f237bf072a8f58f5cfd8be              932 main/binary-arm64/Packages.xz
+SHA512:
+ b31eb38e8add2c624c20386d28bd336bc4fc850d1def9463b3505f86934412e76c0079fd770e66bb7314f331d687a4591e4a173de486084f2fd63b841aa9a832             1404 main/binary-arm64/Packages
+ 73d4bfe7c2dc1773b943f258851669254f1000cf52ac24090386a3964bd96c5c58ea204e87a15d24c9da78847986d377984aec65b38d66d7cb7cb60298008ede              842 main/binary-arm64/Packages.gz
+ 702fb73a17562f1d7458bf95fb127c65374e223f93a3480e849fdf5980e86a29a7fd12f22d17f67824699356c9b68c8549986d8c4ea46df0e685194d1ff5bf0c              932 main/binary-arm64/Packages.xz

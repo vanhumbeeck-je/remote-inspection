@@ -1,0 +1,22 @@
+Package: remote-inspection
+Architecture: arm64
+Version: 1.4.0~beta.1+deb12
+Priority: optional
+Section: video
+Maintainer: Remote Inspection <remote-inspection@users.noreply.github.com>
+Installed-Size: 3064
+Depends: python3 (>= 3.11), python3 (<< 3.12), python3-aiohttp, python3-dbus-fast | python3-dbus-next, avahi-daemon, avahi-utils, alsa-utils, v4l-utils, ffmpeg, curl, ca-certificates, iw, polkitd | policykit-1, dnsmasq-base, rpicam-apps-lite | rpicam-apps | libcamera-apps-lite
+Recommends: python3-numpy, python3-zbar, python3-pil, ethtool, network-manager, rfkill
+Filename: pool/main/r/remote-inspection/remote-inspection_1.4.0~beta.1+deb12_arm64.deb
+Size: 779796
+MD5sum: 5875b46be8addd8d08547e8a9c7c1151
+SHA1: 31f52dd8c4960ed3423adcc1d24d9ff710a6abd4
+SHA256: f2489a69338a243e55f88330e2a55a6828bc662d9b1cef7b075759f58bac2252
+SHA512: f7f5bf089b31f8f15429c33bea67258d04d769e187420c74201eaed6dee2c92cfe30a3aa5e45c3afef64a4b6b5d1fad677fd500b5c6f4516beb0807905986c57
+Homepage: https://vanhumbeeck-je.github.io/remote-inspection/
+Description: Remote Inspection node: live camera and sound of a machine in any browser
+ Turns a Raspberry Pi with a camera (and optionally a USB microphone) into an
+ inspection point. Every Pi on the network shows up in one dashboard at
+ http://inspection.local/ with live video, sound, a spectrum, alerts, WiFi
+ setup and a fallback hotspot. No cloud, no app, no account.
+
